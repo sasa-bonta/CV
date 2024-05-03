@@ -1,0 +1,30 @@
+https://www.fontpair.co/
+ - Oswald', sans-serif
+ - Source Serif Pro
+https://color.adobe.com/ru/trends
+ - #202426
+ - #6C733D
+ - #9DA65D
+ - #8C8C88
+ - #F2F2F2
+
+/* Color Theme Swatches in Hex */
+.Дикая-природа-1-hex { color: #202426; }
+.Дикая-природа-2-hex { color: #6C733D; }
+.Дикая-природа-3-hex { color: #9DA65D; }
+.Дикая-природа-4-hex { color: #8C8C88; }
+.Дикая-природа-5-hex { color: #F2F2F2; }
+
+/* Color Theme Swatches in RGBA */
+.Дикая-природа-1-rgba { color: rgba(31, 35, 38, 1); }
+.Дикая-природа-2-rgba { color: rgba(108, 114, 60, 1); }
+.Дикая-природа-3-rgba { color: rgba(157, 165, 92, 1); }
+.Дикая-природа-4-rgba { color: rgba(139, 140, 136, 1); }
+.Дикая-природа-5-rgba { color: rgba(242, 242, 242, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Дикая-природа-1-hsla { color: hsla(202, 9, 13, 1); }
+.Дикая-природа-2-hsla { color: hsla(67, 30, 34, 1); }
+.Дикая-природа-3-hsla { color: hsla(67, 29, 50, 1); }
+.Дикая-природа-4-hsla { color: hsla(67, 1, 54, 1); }
+.Дикая-природа-5-hsla { color: hsla(0, 0, 95, 1); }
